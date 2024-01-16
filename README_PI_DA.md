@@ -22,12 +22,12 @@ Link Repositorio: https://github.com/nicogutierrezcoll/PI02_Data_Analytics_NGC.g
  
 # <h1 align="center">**`Siniestros viales`**</h1>
 
-En este proyecto, desde HENRY nos hacen colocarnos en un rol de ***Data Analyst***, en el cual tenemos que analizar la informacion del data set de Homicios proporcionados por la ciudad de Buenos Aires.
+En este proyecto, desde HENRY nos hacen colocarnos en un rol de ***Data Analyst***, en el cual tenemos que analizar la informacion del data set de Homicios proporcionados por la ciudad de Buenos Aires. <br>
 Tenemos como opción para agregar información, la utilización del data set Lesiones.
 
 **PRESENTACIÓN DEL PROYECTO**
 ----
-EL proyecto cuenta con un repositorio general cargado en GitHub en la cuenta personal (nicogutierrezcoll).
+EL proyecto cuenta con un repositorio general cargado en GitHub en la cuenta personal. (nicogutierrezcoll)
 
 Nombre repositorio: **`PI02_Data_Analytics_NGC`**
 
@@ -45,7 +45,7 @@ Son dos archivos formato .xlsx (Excel)
     - hechos_lesiones.xlsx
     - victimas_lesiones.xlsx
 
-- Carpeta `"Imagenes"`: Imagenes del tablero para cargar el Readme_PI_DA.
+- Carpeta `"Imagenes"`: Imagenes del tablero para cargar en el Readme_PI_DA.
 
 - Archivo `"EDA_PI_DA.ipynb"`: En este notebook se realizo la carga del dataset proporcionado por la ciudad de BsAs, se trabajo en un pequeño **ETL** y luego se paso a realizar el **EDA**.
 
